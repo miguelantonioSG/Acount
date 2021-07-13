@@ -1,8 +1,8 @@
 -       👋 Hi, I’m @miguelantonioSG                                                 
 - 👀 I’m interested in ...      
 - 🌱 I’m currently learning  Software Testing Automation  and  Data base
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...        
+- 💞️ I’m looking to collaborate on . .. 
+- 📫 How to reach me miguelantonio199728@gmail.com     
 
 <!---
 miguelantonioSG/miguelantonioSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
