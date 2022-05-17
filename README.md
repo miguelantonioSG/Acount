@@ -1,6 +1,6 @@
 -       👋 Hi, I’m @miguelantonioSG                                                 
 - 👀 I’m interested in ...      
-- 🌱 I’m currently learning  Software Testing Automation  and Software Development
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on . .. 
 - 📫 How to reach me miguelantonio199728@gmail.com     
 
